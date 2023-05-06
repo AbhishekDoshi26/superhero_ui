@@ -52,7 +52,7 @@ class _SplashScreenFormState extends State<_SplashScreenForm>
         builder: (context, child) {
           return SizedBox(
             height: _controller.value * 1000,
-            child: Image.asset('assets/logo.png'),
+            child: Image.asset('assets/splash.png'),
           );
         },
       ),
