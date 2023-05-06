@@ -1,16 +1,13 @@
-# superhero_ui
+## Superhero UI
 
-A new Flutter project.
+This project is a simple UI for Superhero app. However, it also has some features:
+- The date is dynamic. Date, day and month will change, based on current date.
+- Location is dynamic. Location on the home page will change based on user's current location.
 
-## Getting Started
+#### Output:
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/52591247/236641000-f07168cb-990b-4a8c-ac37-5f53147e0a2f.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
